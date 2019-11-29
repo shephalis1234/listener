@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Listeners Implementation" duration-ms="646" started-at="2019-10-24T13:25:02Z" finished-at="2019-10-24T13:25:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="646" started-at="2019-10-24T13:25:02Z" finished-at="2019-10-24T13:25:03Z">
+      <class name="test.testdatapro">
+        <test-method status="PASS" signature="test(java.lang.Integer)[pri:0, instance:test.testdatapro@2ed3b1f5]" name="test" duration-ms="155" started-at="2019-10-24T13:25:02Z" data-provider="one" finished-at="2019-10-24T13:25:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test.testdatapro -->
+    </test> <!-- Test -->
+  </suite> <!-- Listeners Implementation -->
+</testng-results>

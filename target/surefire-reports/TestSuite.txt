@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 2, Errors: 0, Skipped: 6, Time elapsed: 3.603 s <<< FAILURE! - in TestSuite
+Test1(test.testIexecution)  Time elapsed: 0.027 s  <<< FAILURE!
+java.lang.ArrayIndexOutOfBoundsException: 0
+
+t4(test.testIexecution)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.ArrayIndexOutOfBoundsException: 0
+
